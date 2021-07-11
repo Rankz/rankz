@@ -1,4 +1,4 @@
-## Hey there! ​👋🏽 I'm Ian, a full-stack software Engineer from London
+# Hey there! ​👋🏽 I'm Ian, a full-stack software Engineer from London
 
 📖 I'm a stickler for clean, readable and organised code.
 
@@ -8,8 +8,7 @@
 
 
 
-
-### Toolbox (But not limited to...)
+## Toolbox (But not limited to...)
 
 <p float="left">
   ​	<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" width="50" />
@@ -28,9 +27,8 @@
   
 
 
-  
 
-### Outside of coding, my passions are:
+## Outside of coding, my passions are:
 
 ```
 ⚽ Football
@@ -44,7 +42,9 @@
 
 ```
 
-#### Let's Connect:
+## Let's Connect:
 
 👉🏽 [LinkedIn](https://www.linkedin.com/in/ian-michaels/)
+
+
 
