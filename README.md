@@ -1,10 +1,10 @@
 # Hey there! ​👋🏽 I'm Ian, a full-stack software Engineer from London
 
-📖 I'm a stickler for clean, readable and organised code.
+📖  I'm a stickler for clean, readable and organised code.
 
-🌍 I have a passion for solving real life problems, that has greater world impact!
+🌍  I have a passion for solving real life problems, that has greater world impact!
 
-⛰️ Recently been working on Munro Bagger, a mobile app that helps Munro climbers in Scotland, track, discover and share their experiences.
+⛰️  Recently been working on Munro Bagger, a mobile app that helps Munro climbers in Scotland, track, discover and share their experiences.
 
 
 
