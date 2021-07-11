@@ -8,6 +8,7 @@
 
 
 
+
 ### Toolbox (But not limited to...)
 
 <p float="left">
@@ -27,6 +28,7 @@
   
 
 
+  
 
 ### Outside of coding, my passions are:
 
