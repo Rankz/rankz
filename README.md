@@ -2,7 +2,7 @@
 
 📖  I'm a stickler for clean, readable and organised code.
 
-🌍  I have a passion for solving real life problems, that has greater world impact!
+🌍  I have a passion for solving real life problems, that impact the world!
 
 ⛰️  Recently been working on Munro Bagger, a mobile app that helps Munro climbers in Scotland, track, discover and share their experiences.
 
