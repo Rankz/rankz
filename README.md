@@ -28,7 +28,7 @@
 
 
 
-## Outside of coding, my passions are:
+## Outside of coding, I'm passionate about:
 
 ```
 ⚽ Football
